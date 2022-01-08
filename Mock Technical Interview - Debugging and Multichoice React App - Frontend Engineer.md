@@ -26,9 +26,7 @@ Please use whatever debugging tools you prefer or you think are best for the job
 
 ### Debug Problem 1:
 
-```JS
-
-```
+[Parents & Children](https://codesandbox.io/embed/mutable-wildflower-lnum3?fontsize=14&hidenavigation=1&theme=dark)
 
 ### Debug Problem 2:
 
