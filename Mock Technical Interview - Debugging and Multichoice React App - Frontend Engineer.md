@@ -28,6 +28,8 @@ Please use whatever debugging tools you prefer or you think are best for the job
 
 [Parents & Children](https://codesandbox.io/embed/mutable-wildflower-lnum3?fontsize=14&hidenavigation=1&theme=dark)
 
+The goal here is to fix a bug. We want the colors of the parents and children to work independently when clicked. Currently, `click` events causes the parent & children to change background colors at the same time.
+
 ### Debug Problem 2:
 
 ```JS
